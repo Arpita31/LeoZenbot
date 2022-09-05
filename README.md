@@ -40,4 +40,13 @@ A Discord Bot
 
       client.run(TOKEN)
   ```
-*
+* Sending DM to new members
+  ```
+       await member.create_dm()
+       await member.dm_channel.send(f"Hi, {member.name}, Welcome to Speak out server!")
+  ```
+* Respond to messages
+  ```
+       msg = message.content.lower()
+       await message.channel.send(f"Hey buddy {author}!")
+  ```
