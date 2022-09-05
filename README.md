@@ -14,8 +14,8 @@ A Discord Bot
 
 ## Process on developer portal :-
 
-1. open developer portal home page in discord.
-2. Create a New Application
+1. Open developer portal home page in Discord.
+2. Create a new application
 3. Add Bot in application
 4. Build a guild or server
 5. Add the Bot details to OAuth2 in developer portal
