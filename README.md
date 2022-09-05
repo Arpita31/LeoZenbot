@@ -56,3 +56,9 @@ A Discord Bot
        msg = message.content.lower()
        await message.channel.send(f"Hey buddy {author}!")
   ```
+
+## Python libraries used:
+
+* discord
+* python-dotenv
+
