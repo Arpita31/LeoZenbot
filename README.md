@@ -1,4 +1,10 @@
-# motivationalbot
+# LeoZen bot
+
+
+
+https://user-images.githubusercontent.com/6211637/188425418-892723fb-1553-483d-94f6-3f215f1fa158.mov
+
+
 
 A Discord Bot
 
