@@ -24,7 +24,7 @@ A Discord Bot
     $ pip install python-dotenv
   ```
 * Create a Client instance to connect with discord api
-  ```
+  ```python
       import os
       import discord
       from dotenv import load_dotenv
@@ -41,12 +41,12 @@ A Discord Bot
       client.run(TOKEN)
   ```
 * Sending DM to new members
-  ```
+  ```python
        await member.create_dm()
        await member.dm_channel.send(f"Hi, {member.name}, Welcome to Speak out server!")
   ```
 * Respond to messages
-  ```
+  ```python
        msg = message.content.lower()
        await message.channel.send(f"Hey buddy {author}!")
   ```
