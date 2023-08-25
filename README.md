@@ -6,11 +6,15 @@ https://user-images.githubusercontent.com/6211637/188425418-892723fb-1553-483d-9
 
 
 
-A Discord Bot
+LeoZen Bot | A Discord bot to greet member.
 
-* To greet members in a discord server.
+
+* Tech: Python, Discord API, web scraping
 * Sends welcome texts in DM to the new users.
 * Greets the existing users in the discord server.
+* According to user response the bot web scrapes the zenquotes.io website.
+* Display a suitable quote
+
 
 ## Process on developer portal :-
 
@@ -61,4 +65,5 @@ A Discord Bot
 
 * discord
 * python-dotenv
+* bs4
 
